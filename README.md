@@ -1,6 +1,6 @@
 # 👋 Archit Mohan Shukla – HTML Developer | Focused Engineer 🚀
 
-Welcome to my corner of the digital realm! I'm Archit, an aspiring software enthusiast from **MIET**, deeply focused on crafting robust and engaging web experiences. As an **HTML Developer** with a keen eye for detail, I thrive on bringing ideas to life through elegant code and thoughtful engineering. My journey is one of continuous learning and precise execution, striving to build impactful solutions.
+Welcome to my corner of the digital realm! I'm Archit, an aspiring software enthusiast with a deep focus on crafting robust and engaging web experiences. As an **HTML Developer** with a keen eye for detail, I thrive on bringing ideas to life through elegant code and thoughtful engineering. My journey is one of continuous learning and precise execution, striving to build impactful solutions.
 
 ### My Developer Journey: Casual 🌱, Yet Committed
 
